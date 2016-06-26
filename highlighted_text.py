@@ -2,7 +2,7 @@ import json
 
 with \
     open('./data/highlights.json') as highlights_file, \
-    open('./data/corpus.txt', 'a') as corpus:
+    open('./data/highlighted_text.txt', 'a') as corpus:
 
         highlights = json.load(highlights_file)
 

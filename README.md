@@ -2,7 +2,8 @@
 
 Stats about what I've highlighted on my Kindle
 
-# Titles
+
+## Titles
 
 - *A Time for Everything* by Knausgaard, Karl Ove 
 - *The Argonauts* by Nelson, Maggie 
@@ -29,3 +30,55 @@ Stats about what I've highlighted on my Kindle
 - *The Wayfinders: Why Ancient Wisdom Matters in the Modern World (CBC Massey Lectures)* by Davis, Wade 
 - *The Wealth of Networks: How Social Production Transforms Markets and Freedom* by Yochai Benkler 
 
+## Top 50 collocations
+
+1. information economy (36)
+2. networked information (24)
+3. intellectual property (22)
+4. information production (17)
+5. TCP/IP network (16)
+6. human beings (14)
+7. information knowledge (14)
+8. industrial information (13)
+9. knowledge culture (13)
+10. public sphere (13)
+11. real space (12)
+12. peer production (12)
+13. open code (11)
+14. information environment (11)
+15. marginal cost (10)
+16. cultural production (10)
+17. threat liberty (10)
+18. physical capital (9)
+19. networked environment (9)
+20. free speech (9)
+21. Layer protocols (9)
+22. property rights (9)
+23. Network Layer (9)
+24. social norms (9)
+25. one another (8)
+26. political action (8)
+27. prudent man (8)
+28. property law (7)
+29. information culture (7)
+30. many people (7)
+31. people want (7)
+32. one place (7)
+33. information cultural (7)
+34. act done (7)
+35. code writers (7)
+36. closed code (7)
+37. Transport Layer (6)
+38. said done (6)
+39. social relations (6)
+40. one 's (6)
+41. seeks prevent (6)
+42. exclusive rights (6)
+43. social production (6)
+44. bon ange (6)
+45. wide range (6)
+46. kind law (6)
+47. operating system (6)
+48. United States (6)
+49. production exchange (5)
+50. without lessening (5)

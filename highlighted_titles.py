@@ -5,6 +5,10 @@ def get_titles(highlights):
         t = {}
         t['title'] = highlight['title']
         t['authors'] = highlight['authors']
-        titles.append(t)
+
+        if not t in titles:
+            titles.append(t)
+
+    titles = sorted(titles, key=lambda t: t['title'].replace('The ', ''))
 
     return titles

@@ -1,14 +1,13 @@
 def get_titles(highlights):
-    titles = []
+    titles = {}
 
     for highlight in highlights:
+        title = highlight['title']
         t = {}
-        t['title'] = highlight['title']
+        t['title'] = title
         t['authors'] = highlight['authors']
 
-        if not t in titles:
-            titles.append(t)
-
-    titles = sorted(titles, key=lambda t: t['title'].replace('The ', ''))
+        if not title in titles:
+            titles[title] = t
 
     return titles

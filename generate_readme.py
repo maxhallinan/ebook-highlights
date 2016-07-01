@@ -16,7 +16,7 @@ def list_titles(titles):
    return titles_text
 
 def list_collocations(collocations):
-    collocations_text = '\n## Top 50 collocations\n\n'
+    collocations_text = '\n## Top 25 collocations (word pairs)\n\n'
 
     for index in range(len(collocations)):
         collocation = collocations[index]

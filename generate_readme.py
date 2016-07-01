@@ -3,6 +3,9 @@ import json
 readme_text = """# ebook-highlights\n
 Natural language analysis of text I've highlighted on my Kindle.
 Updated every once and awhile.
+
+`data/clippings.json` generated with 
+[my-clippings-to-json](https://github.com/maximumhallinan/my-clippings-to-json).
 """
 
 def list_collocations(collocations):
@@ -41,8 +44,8 @@ with open('./README.md', 'w') as readme, \
         open('./data/collocation_frequencies.json') as collocations:
 
     titles = json.load(titles)
-    counts = json.load(counts)
     collocations = json.load(collocations)
+    counts = json.load(counts)
 
     readme_text += list_highlight_count_by_title(counts, titles)
     readme_text += list_collocations(collocations)

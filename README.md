@@ -3,6 +3,9 @@
 Natural language analysis of text I've highlighted on my Kindle.
 Updated every once and awhile.
 
+`data/clippings.json` generated with 
+[my-clippings-to-json](https://github.com/maximumhallinan/my-clippings-to-json).
+
 ## Titles highlighted
 
 - *The Wealth of Networks: How Social Production Transforms Markets and Freedom* by Yochai Benkler (297)
@@ -15,20 +18,20 @@ Updated every once and awhile.
 - *The Art of Cruelty: A Reckoning* by Nelson, Maggie (41)
 - *Paris Stories (New York Review Books Classics)* by Gallant, Mavis (39)
 - *Love's Work (New York Review Books Classics)* by Rose, Gillian (24)
-- *The Future of the Internet--And How to Stop It* by Zittrain, Jonathan (21)
 - *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous* by Gabriella Coleman (21)
+- *The Future of the Internet--And How to Stop It* by Zittrain, Jonathan (21)
 - *The Tin Drum* by Grass, Gunter (20)
 - *The Wayfinders: Why Ancient Wisdom Matters in the Modern World (CBC Massey Lectures)* by Davis, Wade (19)
 - *Bitcoin for the Befuddled* by Conrad Barski; Chris Wilmer (17)
 - *The Myth of Sisyphus: And Other Essays (Vintage International)* by Camus, Albert (16)
 - *One River: Explorations and Discoveries in the Amazon Rain Forest* by Davis, Wade (13)
-- *Pascal's Pensées* by Pascal, Blaise (12)
 - *The Serpent and the Rainbow* by Davis, Wade (12)
+- *Pascal's Pensées* by Pascal, Blaise (12)
 - *A Time for Everything* by Knausgaard, Karl Ove (7)
 - *The Linux Command Line* by William E. Shotts Jr. (5)
 - *The Little Town Where Time Stood Still* by Hrabal, Bohumil (4)
-- *Liber Amoris, or, the New Pygmalion* by Hazlitt, William (2)
 - *Light at the Edge of the World: A Journey Through the Realm of Vanishing Cultures* by Davis, Wade (2)
+- *Liber Amoris, or, the New Pygmalion* by Hazlitt, William (2)
 
 ## Top collocations
 

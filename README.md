@@ -33,6 +33,34 @@ Updated every once and awhile.
 - *Light at the Edge of the World: A Journey Through the Realm of Vanishing Cultures* by Davis, Wade (2)
 - *Liber Amoris, or, the New Pygmalion* by Hazlitt, William (2)
 
+## Top words
+
+- law (220)
+- information (192)
+- one (187)
+- would (156)
+- network (138)
+- code (128)
+- make (121)
+- people (118)
+- new (118)
+- may (115)
+- Internet (112)
+- must (102)
+- production (98)
+- act (96)
+- could (94)
+- way (92)
+- life (87)
+- property (84)
+- man (84)
+- like (83)
+- time (81)
+- social (81)
+- much (77)
+- cyberspace (76)
+- individual (73)
+
 ## Top collocations
 
 - information economy (36)
